@@ -89,7 +89,7 @@ body {
   width: 100%;
   height: 100%;
   overflow: hidden;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: lightblue;
 }
 
 .app__header {
